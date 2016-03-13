@@ -36,6 +36,7 @@ var FieldTextHtmlSimple = widget.extend({
                 ['para', ['ul', 'ol', 'paragraph']],
                 ['table', ['table']],
                 ['insert', ['link', 'picture']],
+                ['view', ['fullscreen', 'codeview']],
                 ['history', ['undo', 'redo']]
             ],
             'prettifyHtml': false,
