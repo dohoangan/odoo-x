@@ -23,7 +23,7 @@
             <field name="approve"/>
           </xpath>
           <xpath expr="//sheet">
-            <field name="order_details" widget="text_ckeditor4"/>
+            <field name="order_details"/>
           </xpath>
 
         </field>
